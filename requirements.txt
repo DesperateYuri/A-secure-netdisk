@@ -1,0 +1,2 @@
+snowland-smx==0.3.2a1
+pycryptodome==3.10.1
